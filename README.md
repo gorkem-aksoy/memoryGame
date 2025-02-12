@@ -32,6 +32,10 @@ Bu proje, Unity kullanılarak geliştirilen 2D mobil hafıza oyunudur. Oyuncular
 ## İletişim
 Herhangi bir sorunuz için benimle iletişime geçebilirsiniz.
 
+## Lisans
+Bu proje [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) lisansı altında lisanslanmıştır.
+
+
 ---
 ![1](https://github.com/user-attachments/assets/b4df2531-f678-464f-86a9-ce9963fcbf8b)
 ![2](https://github.com/user-attachments/assets/81017d63-6aa4-49d6-ae98-9853661af2d3)
